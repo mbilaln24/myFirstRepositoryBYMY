@@ -12,7 +12,7 @@ public class HelloWorldController {
    @ResponseBody
    
    public String getHelloWorld(){
-    return "<h1>Hello World Spring Boot BYMY!</h1>";
+    return "<h1>Yusuf du macher!</h1>";
    }
 
 }
